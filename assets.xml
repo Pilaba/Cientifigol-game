@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <assets PGFVersion="0.25" GSCVersion="1.25.6227">
   <sounds />
-  <images />
+  <images>
+    <image name="balon">
+      <file name="balon.png" size="41558" />
+    </image>
+  </images>
   <fonts />
   <behaviors />
 </assets>
