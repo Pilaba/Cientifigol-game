@@ -8,10 +8,20 @@
   <prototypes>
     <actor id="id452205" />
     <actor id="id868901" />
+    <actor id="id981542" />
+    <actor id="id253176" />
+    <actor id="id317597" />
+    <actor id="id377496" />
+    <actor id="id317544" />
+    <actor id="id764481" />
+    <actor id="id476986" />
   </prototypes>
   <plugins />
   <scenes>
     <scene id="id561418" />
+    <scene id="id662666" />
+    <scene id="id753710" />
+    <scene id="id933640" />
   </scenes>
   <attributes>
     <text id="name">default name</text>

@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.25" GSCVersion="1.25.6227" id="id561418">
+<scene PGFVersion="0.25" GSCVersion="1.25.6227" id="id933640">
   <layers>
-    <layer id="id209009">
-      <actors>
-        <actor id="id509142" prototype="id452205">
-          <attributes>
-            <point id="position">
-              <real id="x">368</real>
-              <real id="y">207</real>
-            </point>
-            <size id="size">
-              <real id="width">282</real>
-              <real id="height">51</real>
-            </size>
-            <angle id="rotation">0</angle>
-          </attributes>
-          <aspects />
-        </actor>
-        <actor id="id187450" prototype="id868901">
-          <attributes>
-            <point id="position">
-              <real id="x">89</real>
-              <real id="y">344</real>
-            </point>
-            <size id="size">
-              <real id="width">66.755247100393</real>
-              <real id="height">63.3202718665782</real>
-            </size>
-            <angle id="rotation">-60.8323866204222</angle>
-          </attributes>
-          <aspects />
-        </actor>
-      </actors>
+    <layer id="id986948">
+      <actors />
       <attributes>
         <text id="name">Background</text>
         <boolean id="scrollable">true</boolean>
@@ -39,7 +10,7 @@
     </layer>
   </layers>
   <attributes>
-    <text id="name">MENU</text>
+    <text id="name">CREDITOS</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">736</real>
