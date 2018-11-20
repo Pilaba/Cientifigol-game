@@ -22,7 +22,35 @@
     <text id="tags" />
     <boolean id="preloadArt">true</boolean>
   </attributes>
-  <behaviors />
+  <behaviors>
+    <behavior id="id351034" class="CollideBehavior" enabled="true">
+      <attributes>
+        <text id="name">Collide</text>
+        <text id="bundleName">Collide.behavior</text>
+        <text id="prototypeKey">id981542</text>
+        <text id="actorTag">Ground</text>
+        <index id="mode">0</index>
+      </attributes>
+    </behavior>
+    <behavior id="id948601" class="CollideBehavior" enabled="true">
+      <attributes>
+        <text id="name">Collide</text>
+        <text id="bundleName">Collide.behavior</text>
+        <text id="prototypeKey">id405577</text>
+        <text id="actorTag">Ground</text>
+        <index id="mode">0</index>
+      </attributes>
+    </behavior>
+    <behavior id="id948141" class="CollideBehavior" enabled="true">
+      <attributes>
+        <text id="name">Collide</text>
+        <text id="bundleName">Collide.behavior</text>
+        <text id="prototypeKey">id898744</text>
+        <text id="actorTag">Ground</text>
+        <index id="mode">0</index>
+      </attributes>
+    </behavior>
+  </behaviors>
   <aspects>
     <graphics>
       <attributes>

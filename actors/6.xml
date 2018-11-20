@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<actor id="id377496" PGFVersion="0.25" GSCVersion="1.25.6227">
+<actor id="id317544" PGFVersion="0.25" GSCVersion="1.25.6227">
   <attributes>
-    <text id="name">Poderes</text>
+    <text id="name">Controles</text>
     <real id="time">0</real>
     <point id="position">
       <real id="x">0</real>
