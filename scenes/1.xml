@@ -3,31 +3,144 @@
   <layers>
     <layer id="id209009">
       <actors>
-        <actor id="id509142" prototype="id452205">
+        <actor id="id728968" prototype="id898744">
           <attributes>
             <point id="position">
-              <real id="x">368</real>
-              <real id="y">207</real>
+              <real id="x">369</real>
+              <real id="y">233</real>
             </point>
             <size id="size">
-              <real id="width">282</real>
-              <real id="height">51</real>
+              <real id="width">809</real>
+              <real id="height">33</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">muros Copy 7</text>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="restitution">1</real>
+                <real id="friction">3</real>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id229462" prototype="id820018">
+          <attributes>
+            <point id="position">
+              <real id="x">376</real>
+              <real id="y">218</real>
+            </point>
+            <size id="size">
+              <real id="width">765</real>
+              <real id="height">462</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">portada1</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id256706" prototype="id618009">
+          <attributes>
+            <point id="position">
+              <real id="x">489</real>
+              <real id="y">191</real>
+            </point>
+            <size id="size">
+              <real id="width">130</real>
+              <real id="height">130</real>
             </size>
             <angle id="rotation">0</angle>
           </attributes>
           <aspects />
         </actor>
-        <actor id="id187450" prototype="id868901">
+        <actor id="id740146" prototype="id649541">
           <attributes>
             <point id="position">
-              <real id="x">89</real>
-              <real id="y">344</real>
+              <real id="x">454</real>
+              <real id="y">355</real>
             </point>
             <size id="size">
-              <real id="width">66.755247100393</real>
-              <real id="height">63.3202718665782</real>
+              <real id="width">216</real>
+              <real id="height">51</real>
             </size>
-            <angle id="rotation">-60.8323866204222</angle>
+            <angle id="rotation">0</angle>
+            <image id="image">button_jugador</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id580967" prototype="id823200">
+          <attributes>
+            <point id="position">
+              <real id="x">99</real>
+              <real id="y">54</real>
+            </point>
+            <size id="size">
+              <real id="width">121</real>
+              <real id="height">51</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">button_salir</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id176224" prototype="id450103">
+          <attributes>
+            <point id="position">
+              <real id="x">468</real>
+              <real id="y">92</real>
+            </point>
+            <size id="size">
+              <real id="width">150</real>
+              <real id="height">165</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">darvin-1</image>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id678192" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">371</real>
+              <real id="y">-29</real>
+            </point>
+            <size id="size">
+              <real id="width">792</real>
+              <real id="height">33</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="restitution">1</real>
+                <real id="friction">3</real>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id940603" prototype="id414734">
+          <attributes>
+            <point id="position">
+              <real id="x">456</real>
+              <real id="y">293</real>
+            </point>
+            <size id="size">
+              <real id="width">162</real>
+              <real id="height">46</real>
+            </size>
+            <angle id="rotation">0</angle>
           </attributes>
           <aspects />
         </actor>

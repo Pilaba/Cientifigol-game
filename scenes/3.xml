@@ -1,16 +1,861 @@
 <?xml version="1.0" encoding="utf-8"?>
-<scene PGFVersion="0.25" GSCVersion="1.25.6227" id="id753710">
+<scene PGFVersion="0.25" GSCVersion="1.25.6227" id="id662666">
   <layers>
-    <layer id="id819418">
-      <actors />
+    <layer id="id184416">
+      <actors>
+        <actor id="id748236" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">358</real>
+              <real id="y">426</real>
+            </point>
+            <size id="size">
+              <real id="width">30</real>
+              <real id="height">785</real>
+            </size>
+            <angle id="rotation">90</angle>
+            <text id="name">muros Copy 1</text>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="density">0</real>
+                <real id="friction">0</real>
+                <real id="restitution">0</real>
+                <boolean id="fixedRotation">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id753629" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">752</real>
+              <real id="y">252</real>
+            </point>
+            <size id="size">
+              <real id="width">39.9753150410309</real>
+              <real id="height">349</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">muros Copy 2</text>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="density">0</real>
+                <real id="friction">0</real>
+                <real id="restitution">0</real>
+                <boolean id="fixedRotation">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id782948" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">-16</real>
+              <real id="y">252</real>
+            </point>
+            <size id="size">
+              <real id="width">40</real>
+              <real id="height">347</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="friction">0</real>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+                <real id="restitution">0.2</real>
+                <real id="density">0</real>
+                <boolean id="fixedRotation">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id329923" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">25</real>
+              <real id="y">225</real>
+            </point>
+            <size id="size">
+              <real id="width">35</real>
+              <real id="height">2</real>
+            </size>
+            <angle id="rotation">-17</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="restitution">0</real>
+                <real id="friction">0</real>
+                <real id="density">0</real>
+                <boolean id="fixedRotation">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id708133" prototype="id862255">
+          <attributes>
+            <point id="position">
+              <real id="x">16</real>
+              <real id="y">145</real>
+            </point>
+            <size id="size">
+              <real id="width">30</real>
+              <real id="height">137</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">0.501960784313725</real>
+              <real id="green">0.501960784313725</real>
+              <real id="blue">0.501960784313725</real>
+              <real id="alpha">1</real>
+            </color>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <real id="density">0</real>
+                <real id="friction">0</real>
+                <real id="restitution">0</real>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id874253" prototype="id263106">
+          <attributes>
+            <point id="position">
+              <real id="x">722</real>
+              <real id="y">146</real>
+            </point>
+            <size id="size">
+              <real id="width">30</real>
+              <real id="height">137</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">0.501960784313725</real>
+              <real id="green">0.501960784313725</real>
+              <real id="blue">0.501960784313725</real>
+              <real id="alpha">1</real>
+            </color>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <real id="restitution">0</real>
+                <real id="friction">0</real>
+                <real id="density">0</real>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id566648" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">710</real>
+              <real id="y">225</real>
+            </point>
+            <size id="size">
+              <real id="width">35</real>
+              <real id="height">2</real>
+            </size>
+            <angle id="rotation">20.5560452195835</angle>
+            <text id="name">muros Copy 6</text>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="restitution">0</real>
+                <real id="friction">0</real>
+                <real id="density">0</real>
+                <boolean id="fixedRotation">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id910972" prototype="id710063">
+          <attributes>
+            <point id="position">
+              <real id="x">368</real>
+              <real id="y">217</real>
+            </point>
+            <size id="size">
+              <real id="width">743</real>
+              <real id="height">426</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">0.501960784313725</real>
+              <real id="green">0.501960784313725</real>
+              <real id="blue">0.250980392156863</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">back</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">true</boolean>
+                <boolean id="fixedRotation">false</boolean>
+                <enumeration id="collisionShape">0</enumeration>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id429933" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">362</real>
+              <real id="y">38</real>
+            </point>
+            <size id="size">
+              <real id="width">90</real>
+              <real id="height">882</real>
+            </size>
+            <angle id="rotation">90</angle>
+            <text id="name">muros Copy 3</text>
+            <image id="image" />
+            <color id="color">
+              <real id="red">0.501960784313725</real>
+              <real id="green">0.501960784313725</real>
+              <real id="blue">0.250980392156863</real>
+              <real id="alpha">1</real>
+            </color>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="fixedRotation">false</boolean>
+                <real id="density">0</real>
+                <real id="friction">3</real>
+                <real id="restitution">0</real>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id687605" prototype="id898744">
+          <attributes>
+            <point id="position">
+              <real id="x">711</real>
+              <real id="y">-24</real>
+            </point>
+            <size id="size">
+              <real id="width">30</real>
+              <real id="height">676</real>
+            </size>
+            <angle id="rotation">90</angle>
+            <text id="name">muros Copy 5</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id677878" prototype="id981542">
+          <attributes>
+            <point id="position">
+              <real id="x">194</real>
+              <real id="y">215</real>
+            </point>
+            <size id="size">
+              <real id="width">40</real>
+              <real id="height">60</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">einstein</image>
+            <boolean id="id200213" name="IsJumping">false</boolean>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion>
+              <attributes>
+                <boolean id="applyMaxSpeed">false</boolean>
+                <real id="maxSpeed">0</real>
+                <point id="centerOfMass">
+                  <real id="x">0</real>
+                  <real id="y">0</real>
+                </point>
+                <boolean id="pin">false</boolean>
+                <point id="linearVelocity">
+                  <real id="x">0</real>
+                  <real id="y">0</real>
+                </point>
+                <real id="angularVelocity">0</real>
+              </attributes>
+            </motion>
+            <physics>
+              <attributes>
+                <boolean id="fixedRotation">true</boolean>
+                <boolean id="betterColisions">true</boolean>
+                <boolean id="canSleep">false</boolean>
+                <real id="restitution">0</real>
+                <real id="friction">5</real>
+                <real id="density">100</real>
+                <enumeration id="collisionShape">0</enumeration>
+                <real id="angularDrag">1</real>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id673767" prototype="id571087">
+          <attributes>
+            <point id="position">
+              <real id="x">203</real>
+              <real id="y">171</real>
+            </point>
+            <size id="size">
+              <real id="width">40</real>
+              <real id="height">13</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <boolean id="id175535" name="IsJumping">false</boolean>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">0.501960784313725</real>
+              <real id="blue">0</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">zapato</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion>
+              <attributes>
+                <point id="centerOfMass">
+                  <real id="x">0</real>
+                </point>
+                <boolean id="pin">false</boolean>
+              </attributes>
+            </motion>
+            <physics>
+              <attributes>
+                <boolean id="betterColisions">true</boolean>
+                <enumeration id="collisionShape">0</enumeration>
+                <real id="density">100</real>
+                <real id="restitution">0</real>
+                <boolean id="fixedRotation">true</boolean>
+                <boolean id="canSleep">false</boolean>
+                <real id="friction">5</real>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id632003" prototype="id868901">
+          <attributes>
+            <point id="position">
+              <real id="x">366</real>
+              <real id="y">316</real>
+            </point>
+            <size id="size">
+              <real id="width">25</real>
+              <real id="height">25</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <motion>
+              <attributes>
+                <boolean id="applyMaxSpeed">false</boolean>
+                <real id="maxSpeed">700</real>
+                <point id="centerOfMass">
+                  <real id="x">0</real>
+                  <real id="y">0</real>
+                </point>
+                <boolean id="pin">false</boolean>
+                <point id="linearVelocity">
+                  <real id="y">0</real>
+                  <real id="x">0</real>
+                </point>
+              </attributes>
+            </motion>
+            <physics>
+              <attributes>
+                <enumeration id="collisionShape">1</enumeration>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">true</boolean>
+                <real id="friction">100</real>
+                <real id="restitution">0.5</real>
+                <real id="density">1</real>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id275244" prototype="id405577">
+          <attributes>
+            <point id="position">
+              <real id="x">546</real>
+              <real id="y">221</real>
+            </point>
+            <size id="size">
+              <real id="width">40</real>
+              <real id="height">60</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">tesla</image>
+            <boolean id="id645318" name="IsJumping">true</boolean>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">1</real>
+              <real id="blue">1</real>
+              <real id="alpha">1</real>
+            </color>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <boolean id="flipHorizontally">false</boolean>
+              </attributes>
+            </graphics>
+            <motion>
+              <attributes>
+                <boolean id="applyMaxSpeed">false</boolean>
+                <point id="centerOfMass">
+                  <real id="x">0</real>
+                  <real id="y">0</real>
+                </point>
+                <boolean id="pin">false</boolean>
+                <point id="linearVelocity">
+                  <real id="y">0</real>
+                </point>
+              </attributes>
+            </motion>
+            <physics>
+              <attributes>
+                <boolean id="fixedRotation">true</boolean>
+                <boolean id="movable">true</boolean>
+                <real id="restitution">0</real>
+                <boolean id="betterColisions">true</boolean>
+                <boolean id="canSleep">true</boolean>
+                <real id="density">100</real>
+                <enumeration id="collisionShape">0</enumeration>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id187816" prototype="id317544">
+          <attributes>
+            <point id="position">
+              <real id="x">144</real>
+              <real id="y">44</real>
+            </point>
+            <size id="size">
+              <real id="width">105</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">0.501960784313725</real>
+              <real id="green">0.501960784313725</real>
+              <real id="blue">0.250980392156863</real>
+              <real id="alpha">1</real>
+            </color>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="fixedRotation">true</boolean>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id335933" prototype="id118225">
+          <attributes>
+            <point id="position">
+              <real id="x">724</real>
+              <real id="y">150</real>
+            </point>
+            <size id="size">
+              <real id="width">67</real>
+              <real id="height">163</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id450000" prototype="id538451">
+          <attributes>
+            <point id="position">
+              <real id="x">675</real>
+              <real id="y">362</real>
+            </point>
+            <size id="size">
+              <real id="width">40</real>
+              <real id="height">40</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id239671" prototype="id970262">
+          <attributes>
+            <point id="position">
+              <real id="x">62</real>
+              <real id="y">362</real>
+            </point>
+            <size id="size">
+              <real id="width">40</real>
+              <real id="height">40</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <enumeration id="collisionShape">0</enumeration>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+                <boolean id="fixedRotation">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id154912" prototype="id618837">
+          <attributes>
+            <point id="position">
+              <real id="x">541</real>
+              <real id="y">170</real>
+            </point>
+            <size id="size">
+              <real id="width">40</real>
+              <real id="height">13</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <image id="image">zapato</image>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">0</real>
+              <real id="blue">0.501960784313725</real>
+              <real id="alpha">1</real>
+            </color>
+            <boolean id="id570316" name="isJumping">true</boolean>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <boolean id="flipHorizontally">true</boolean>
+              </attributes>
+            </graphics>
+            <physics>
+              <attributes>
+                <real id="density">100</real>
+                <real id="restitution">0</real>
+                <boolean id="fixedRotation">true</boolean>
+                <boolean id="betterColisions">true</boolean>
+                <boolean id="canSleep">true</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id958033" prototype="id764481">
+          <attributes>
+            <point id="position">
+              <real id="x">563</real>
+              <real id="y">43</real>
+            </point>
+            <size id="size">
+              <real id="width">75</real>
+              <real id="height">65</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">0.501960784313725</real>
+              <real id="blue">0</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">kickball</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes>
+                <boolean id="flipHorizontally">true</boolean>
+              </attributes>
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="fixedRotation">true</boolean>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id862403" prototype="id821584">
+          <attributes>
+            <point id="position">
+              <real id="x">461</real>
+              <real id="y">45</real>
+            </point>
+            <size id="size">
+              <real id="width">70</real>
+              <real id="height">60</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <color id="color">
+              <real id="red">1</real>
+              <real id="green">0</real>
+              <real id="blue">0.501960784313725</real>
+              <real id="alpha">1</real>
+            </color>
+            <image id="image">Poder</image>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id958524" prototype="id821423">
+          <attributes>
+            <point id="position">
+              <real id="x">363</real>
+              <real id="y">396</real>
+            </point>
+            <size id="size">
+              <real id="width">79</real>
+              <real id="height">30</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="fixedRotation">false</boolean>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id602162" prototype="id874695">
+          <attributes>
+            <point id="position">
+              <real id="x">149</real>
+              <real id="y">44</real>
+            </point>
+            <size id="size">
+              <real id="width">79</real>
+              <real id="height">33</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id268930" prototype="id289453">
+          <attributes>
+            <point id="position">
+              <real id="x">12</real>
+              <real id="y">150</real>
+            </point>
+            <size id="size">
+              <real id="width">67</real>
+              <real id="height">163</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <graphics>
+              <attributes />
+            </graphics>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+                <boolean id="canSleep">true</boolean>
+                <boolean id="betterColisions">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id895849" prototype="id587402">
+          <attributes>
+            <point id="position">
+              <real id="x">656</real>
+              <real id="y">45</real>
+            </point>
+            <size id="size">
+              <real id="width">70</real>
+              <real id="height">60</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+        <actor id="id336691" prototype="id819981">
+          <attributes>
+            <point id="position">
+              <real id="x">714</real>
+              <real id="y">391</real>
+            </point>
+            <size id="size">
+              <real id="width">52</real>
+              <real id="height">45</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <behaviors>
+            <behavior id="id994454" class="RuleBehavior" enabled="true">
+              <attributes>
+                <text id="name">Rule</text>
+                <text id="bundleName">Rule.behavior</text>
+                <real id="compoundConditionKind">0</real>
+              </attributes>
+              <conditions>
+                <condition id="id510961" eventType="touch" pluginPredicateTypeIndex="0" class="Touch">
+                  <attributes>
+                    <text id="name">default name</text>
+                    <index id="conditionType">0</index>
+                  </attributes>
+                  <predicate type="touch" conditionType="pressed">
+                    <attributes />
+                  </predicate>
+                </condition>
+              </conditions>
+              <behaviors>
+                <behavior id="id155093" class="ChangeSceneAction" enabled="true">
+                  <attributes>
+                    <text id="name">Change Scene</text>
+                    <text id="bundleName">ChangeScene.behavior</text>
+                    <text id="sceneKey">id753710</text>
+                    <index id="enableAdvertisement">0</index>
+                    <index id="index">1</index>
+                  </attributes>
+                </behavior>
+              </behaviors>
+            </behavior>
+          </behaviors>
+          <aspects>
+            <physics>
+              <attributes>
+                <boolean id="movable">false</boolean>
+              </attributes>
+            </physics>
+          </aspects>
+        </actor>
+      </actors>
       <attributes>
         <text id="name">Background</text>
-        <boolean id="scrollable">true</boolean>
+        <boolean id="scrollable">false</boolean>
       </attributes>
     </layer>
   </layers>
   <attributes>
-    <text id="name">SELECCIONAR CIENTIFICO</text>
+    <text id="name">JUEGO</text>
     <real id="time">0</real>
     <size id="size">
       <real id="width">736</real>
@@ -20,12 +865,12 @@
     <boolean id="wrapY">false</boolean>
     <point id="gravity">
       <real id="x">0</real>
-      <real id="y">0</real>
+      <real id="y">300</real>
     </point>
     <color id="color">
-      <real id="red">0</real>
-      <real id="green">0</real>
-      <real id="blue">0</real>
+      <real id="red">0.501960784313725</real>
+      <real id="green">0.501960784313725</real>
+      <real id="blue">0.501960784313725</real>
       <real id="alpha">1</real>
     </color>
     <rect id="camera">

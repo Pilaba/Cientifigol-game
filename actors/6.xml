@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<actor id="id317544" PGFVersion="0.25" GSCVersion="1.25.6227">
+<actor id="id538451" PGFVersion="0.25" GSCVersion="1.25.6227">
   <attributes>
-    <text id="name">Controles</text>
+    <text id="name">Marcador 2</text>
     <real id="time">0</real>
     <point id="position">
       <real id="x">0</real>
@@ -22,7 +22,42 @@
     <text id="tags" />
     <boolean id="preloadArt">true</boolean>
   </attributes>
-  <behaviors />
+  <behaviors>
+    <behavior id="id793508" class="DisplayTextBehavior" enabled="true">
+      <attributes>
+        <text id="name">Display Text</text>
+        <text id="bundleName">DisplayText.behavior</text>
+        <text id="text">
+          <expression>
+            <reference keypath="game.attributes.id388666" />
+          </expression>
+        </text>
+        <text id="font">Monda</text>
+        <real id="size">30</real>
+        <index id="alignment">1</index>
+        <boolean id="wrap">true</boolean>
+        <color id="color">
+          <real id="red">1</real>
+          <real id="green">0.501960784313725</real>
+          <real id="blue">0.250980392156863</real>
+          <real id="alpha">1</real>
+        </color>
+        <real id="offsetx">0</real>
+        <real id="offsety">0</real>
+        <index id="space">0</index>
+        <index id="directionSpace">0</index>
+        <angle id="direction">0</angle>
+      </attributes>
+    </behavior>
+    <behavior id="id199814" class="PlayMusicAction" enabled="false">
+      <attributes>
+        <text id="name">Play Music</text>
+        <text id="bundleName">PlayMusic.behavior</text>
+        <music id="musicName">hinchada</music>
+        <boolean id="loop">false</boolean>
+      </attributes>
+    </behavior>
+  </behaviors>
   <aspects>
     <graphics>
       <attributes>

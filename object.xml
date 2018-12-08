@@ -9,18 +9,55 @@
     <actor id="id452205" />
     <actor id="id868901" />
     <actor id="id981542" />
-    <actor id="id317597" />
-    <actor id="id377496" />
+    <actor id="id405577" />
+    <actor id="id970262" />
+    <actor id="id538451" />
+    <actor id="id289453" />
+    <actor id="id118225" />
+    <actor id="id862255" />
+    <actor id="id263106" />
     <actor id="id317544" />
+    <actor id="id167703" />
     <actor id="id764481" />
     <actor id="id898744" />
-    <actor id="id405577" />
+    <actor id="id571087" />
+    <actor id="id710063" />
+    <actor id="id591232" />
+    <actor id="id618837" />
+    <actor id="id412087" />
+    <actor id="id387837" />
+    <actor id="id831529" />
+    <actor id="id684109" />
+    <actor id="id664562" />
+    <actor id="id588818" />
+    <actor id="id456915" />
+    <actor id="id709312" />
+    <actor id="id342141" />
+    <actor id="id710301" />
+    <actor id="id820018" />
+    <actor id="id618009" />
+    <actor id="id450103" />
+    <actor id="id649541" />
+    <actor id="id823200" />
+    <actor id="id181028" />
+    <actor id="id281844" />
+    <actor id="id821584" />
+    <actor id="id414734" />
+    <actor id="id419538" />
+    <actor id="id874695" />
+    <actor id="id742244" />
+    <actor id="id819981" />
+    <actor id="id821423" />
+    <actor id="id564417" />
+    <actor id="id685622" />
+    <actor id="id516219" />
+    <actor id="id587402" />
   </prototypes>
   <plugins />
   <scenes>
     <scene id="id561418" />
-    <scene id="id662666" />
     <scene id="id753710" />
+    <scene id="id662666" />
     <scene id="id933640" />
   </scenes>
   <attributes>
@@ -183,5 +220,34 @@
       <text id="name" />
     </adreward>
     <table id="id577892" name="PurchaseTable">PurchaseTable</table>
+    <integer id="id191538" name="Controller base X">100</integer>
+    <integer id="id141918" name="Controller base Y">100</integer>
+    <integer id="id843448" name="Controller base radio">60</integer>
+    <integer id="id414321" name="Controller distance center">0</integer>
+    <integer id="id247039" name="Controller rotation center">0</integer>
+    <boolean id="id217331" name="PlatformConnected">false</boolean>
+    <table id="id593229" name="TestTable">Table 1</table>
+    <integer id="id405566" name="Marcador J1">0</integer>
+    <integer id="id388666" name="Marcador J2">0</integer>
+    <integer id="id249419" name="Pos X J1">0</integer>
+    <integer id="id312204" name="Pos Y J1">0</integer>
+    <boolean id="id499822" name="kickBall">false</boolean>
+    <boolean id="id428496" name="Jump">false</boolean>
+    <boolean id="id347667" name="power1">false</boolean>
+    <boolean id="id596893" name="PoderActivado">false</boolean>
+    <integer id="id371921" name="balon X">0</integer>
+    <integer id="id473384" name="balon Y">0</integer>
+    <integer id="id133129" name="Pos X J2">0</integer>
+    <integer id="id561429" name="Pos Y J2">0</integer>
+    <boolean id="id225459" name="IA basica Disparo">false</boolean>
+    <integer id="id195092" name="Cientifico Seleccionado">1</integer>
+    <boolean id="id675882" name="Poder activado">false</boolean>
+    <integer id="id588677" name="frame">0</integer>
+    <boolean id="id761834" name="Goal">false</boolean>
+    <integer id="id371498" name="timer">50</integer>
+    <integer id="id943862" name="AgujeroN entrada X">0</integer>
+    <integer id="id960056" name="AgujeroN entrada Y">0</integer>
+    <integer id="id105385" name="AgujeroN salida X">0</integer>
+    <integer id="id863375" name="AgujeroN salida Y">0</integer>
   </attributes>
 </game>

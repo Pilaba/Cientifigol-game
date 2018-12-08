@@ -2,7 +2,82 @@
 <scene PGFVersion="0.25" GSCVersion="1.25.6227" id="id933640">
   <layers>
     <layer id="id986948">
-      <actors />
+      <actors>
+        <actor id="id914943" prototype="id419538">
+          <attributes>
+            <point id="position">
+              <real id="x">368</real>
+              <real id="y">206</real>
+            </point>
+            <size id="size">
+              <real id="width">740</real>
+              <real id="height">418</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id980543" prototype="id618009">
+          <attributes>
+            <point id="position">
+              <real id="x">224</real>
+              <real id="y">203</real>
+            </point>
+            <size id="size">
+              <real id="width">358</real>
+              <real id="height">344</real>
+            </size>
+            <angle id="rotation">0</angle>
+            <text id="name">Actor 4 Copy 1</text>
+          </attributes>
+          <aspects />
+        </actor>
+        <actor id="id308497" prototype="id819981">
+          <attributes>
+            <point id="position">
+              <real id="x">646</real>
+              <real id="y">64</real>
+            </point>
+            <size id="size">
+              <real id="width">92</real>
+              <real id="height">72</real>
+            </size>
+            <angle id="rotation">0</angle>
+          </attributes>
+          <behaviors>
+            <behavior id="id456595" class="RuleBehavior" enabled="true">
+              <attributes>
+                <text id="name">Rule</text>
+                <text id="bundleName">Rule.behavior</text>
+                <real id="compoundConditionKind">0</real>
+              </attributes>
+              <conditions>
+                <condition id="id280907" eventType="touch" pluginPredicateTypeIndex="0" class="Touch">
+                  <attributes>
+                    <text id="name">default name</text>
+                    <index id="conditionType">0</index>
+                  </attributes>
+                  <predicate type="touch" conditionType="pressed">
+                    <attributes />
+                  </predicate>
+                </condition>
+              </conditions>
+              <behaviors>
+                <behavior id="id111272" class="ChangeSceneAction" enabled="true">
+                  <attributes>
+                    <text id="name">Change Scene</text>
+                    <text id="bundleName">ChangeScene.behavior</text>
+                    <text id="sceneKey">id561418</text>
+                    <index id="enableAdvertisement">0</index>
+                    <index id="index">1</index>
+                  </attributes>
+                </behavior>
+              </behaviors>
+            </behavior>
+          </behaviors>
+          <aspects />
+        </actor>
+      </actors>
       <attributes>
         <text id="name">Background</text>
         <boolean id="scrollable">true</boolean>

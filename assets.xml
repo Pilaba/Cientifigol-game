@@ -1,9 +1,196 @@
 <?xml version="1.0" encoding="utf-8"?>
 <assets PGFVersion="0.25" GSCVersion="1.25.6227">
-  <sounds />
+  <sounds>
+    <music name="ESPL">
+      <file name="ESPL.mp3" size="3533913" />
+    </music>
+    <music name="introgame">
+      <file name="intro game.mp3" size="8886964" />
+    </music>
+    <music name="hinchada">
+      <file name="hinchada.mp3" size="977221" />
+    </music>
+    <sound name="goal">
+      <file name="goal.ogg" size="9836" />
+    </sound>
+    <sound name="hinchadagol">
+      <file name="hinchadagol.ogg" size="47101" />
+    </sound>
+    <sound name="endgamee">
+      <file name="endgamee.ogg" size="29317" />
+    </sound>
+    <sound name="patadaBalon">
+      <file name="patadaBalon.ogg" size="5650" />
+    </sound>
+  </sounds>
   <images>
     <image name="balon">
-      <file name="balon.png" size="41558" />
+      <file name="balon.png" size="52288" />
+    </image>
+    <image name="carl">
+      <file name="carl.png" size="468111" />
+    </image>
+    <image name="porteria">
+      <file name="porteria.png" size="27393" />
+    </image>
+    <image name="porteria2">
+      <file name="porteria2.png" size="26969" />
+    </image>
+    <image name="zapato">
+      <file name="zapato.png" size="1452" />
+    </image>
+    <image name="path112">
+      <file name="path112.png" size="3347" />
+    </image>
+    <image name="poder">
+      <file name="poder.png" size="2292" />
+    </image>
+    <image name="bitmap">
+      <file name="bitmap.png" size="13632" />
+    </image>
+    <image name="einstein">
+      <file name="einstein.png" size="35614" />
+    </image>
+    <image name="tesla">
+      <file name="tesla.png" size="34634" />
+    </image>
+    <image name="balon1">
+      <file name="balon1.png" size="41558" />
+    </image>
+    <image name="bottom">
+      <file name="bottom.png" size="20558" />
+    </image>
+    <image name="sthep">
+      <file name="sthep.png" size="9411" />
+    </image>
+    <image name="teslaSelect">
+      <file name="teslaSelect.png" size="112255" />
+    </image>
+    <image name="sthepSelect">
+      <file name="sthepSelect.png" size="9411" />
+    </image>
+    <image name="albertSelect">
+      <file name="albertSelect.png" size="56577" />
+    </image>
+    <image name="2G9Y">
+      <file name="2G9Y.png" size="78980" />
+    </image>
+    <image name="soundON">
+      <file name="soundON.png" size="99601" />
+    </image>
+    <image name="soundOFF">
+      <file name="soundOFF.png" size="85183" />
+    </image>
+    <image name="confir">
+      <file name="confir.png" size="19234" />
+    </image>
+    <image name="hawking">
+      <file name="hawking.png" size="26293" />
+    </image>
+    <image name="button_jugador">
+      <file name="button_jugador.png" size="6454" />
+    </image>
+    <image name="button_jugadores">
+      <file name="button_jugadores.png" size="7586" />
+    </image>
+    <image name="button_salir">
+      <file name="button_salir.png" size="4508" />
+    </image>
+    <image name="darvin-1">
+      <file name="darvin-1.png" size="3195" />
+    </image>
+    <image name="portada1">
+      <file name="portada1.png" size="741978" />
+    </image>
+    <image name="ComenzarJuego">
+      <file name="ComenzarJuego.png" size="6903" />
+    </image>
+    <image name="BotonON">
+      <file name="BotonON.png" size="2272" />
+    </image>
+    <image name="BotonOFF">
+      <file name="BotonOFF.png" size="2523" />
+    </image>
+    <image name="darwinSelect">
+      <file name="darwinSelect.png" size="81802" />
+    </image>
+    <image name="DarwinRigth">
+      <file name="DarwinRigth.png" size="31303" />
+    </image>
+    <image name="albert3">
+      <file name="albert3.png" size="51621" />
+    </image>
+    <image name="albert2">
+      <file name="albert2.png" size="51100" />
+    </image>
+    <image name="albert">
+      <file name="albert.png" size="51515" />
+    </image>
+    <image name="tessInfo">
+      <file name="tessInfo.png" size="44878" />
+    </image>
+    <image name="infosteph">
+      <file name="infosteph.png" size="42192" />
+    </image>
+    <image name="infoEins">
+      <file name="infoEins.png" size="53031" />
+    </image>
+    <image name="INFODarwin">
+      <file name="INFODarwin.png" size="54626" />
+    </image>
+    <image name="poderA4">
+      <file name="poderA4.png" size="159121" />
+    </image>
+    <image name="poderA3">
+      <file name="poderA3.png" size="159161" />
+    </image>
+    <image name="poderA2">
+      <file name="poderA2.png" size="159632" />
+    </image>
+    <image name="poderA1">
+      <file name="poderA1.png" size="159803" />
+    </image>
+    <image name="poderA0">
+      <file name="poderA0.png" size="1205643" />
+    </image>
+    <image name="back">
+      <file name="back.png" size="73388" />
+    </image>
+    <image name="Atras">
+      <file name="Atras.png" size="12903" />
+    </image>
+    <image name="button_creditos">
+      <file name="button_creditos.png" size="5479" />
+    </image>
+    <image name="Creditos">
+      <file name="Creditos.png" size="3284734" />
+    </image>
+    <image name="Direcciones">
+      <file name="Direcciones.png" size="22740" />
+    </image>
+    <image name="Salir2">
+      <file name="Salir2.png" size="15043" />
+    </image>
+    <image name="Saltar">
+      <file name="Saltar.png" size="1875" />
+    </image>
+    <image name="Poder">
+      <file name="Poder.png" size="2292" />
+    </image>
+    <image name="powersTAR">
+      <file name="powersTAR.png" size="1971" />
+    </image>
+    <image name="agujero negro-Salida">
+      <file name="agujero negro-Salida.png" size="128446" />
+    </image>
+    <image name="agujero negro">
+      <file name="agujero negro.png" size="124698" />
+    </image>
+    <image name="kickball">
+      <file name="kickball.png" size="5768" />
+    </image>
+    <image name="unnamed">
+      <file name="unnamed.png" size="89684" />
     </image>
   </images>
   <fonts />
